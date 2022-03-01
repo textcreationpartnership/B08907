@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most delightful history of the famous clothier of England, called, Jack of Newbery, in the days of King Henry the Eight; how he was beloved of his mistris above all her wealtheir sutors : what great and valiant things he did for England : and the great number of poor he daily cherished.  And how (when the King sent for him) he refused (with his company) to leave the hill of ants to go to the king : and therefore the king went to him which he wittily excused with many other very pleasant passages / written by W.S.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08907</idno>
+            <idno type="STC">Wing D957C</idno>
+            <idno type="STC">ESTC R175927</idno>
+            <idno type="EEBO-CITATION">64551159</idno>
+            <idno type="OCLC">ocm 64551159</idno>
+            <idno type="VID">184514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184514)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most delightful history of the famous clothier of England, called, Jack of Newbery, in the days of King Henry the Eight; how he was beloved of his mistris above all her wealtheir sutors : what great and valiant things he did for England : and the great number of poor he daily cherished.  And how (when the King sent for him) he refused (with his company) to leave the hill of ants to go to the king : and therefore the king went to him which he wittily excused with many other very pleasant passages / written by W.S.</title>
+                  <author>Deloney, Thomas, 1543?-1600.</author>
+               </titleStmt>
+               <extent>20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray, at the Sign of the angel in Duck Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[c.1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Deloney. Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Publisher's advertisements on [2] p. at end.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winchcombe, John, d. 1520 --  Fiction --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Henry VIII, 1509-1547 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184514:1" rendition="simple:additions"/>
+            <pb facs="tcp:184514:1" rendition="simple:additions"/>
+            <p>A moſt Delightful HISTORY Of the Famous <hi>Clothier of</hi> England, CALLED, JACK of NEWBERY, In the days of King <hi>Henry</hi> the Eighth; how he was beloved of his Miſtris above all her Wealthier Sutors: what great and valiant things he did for <hi>England:</hi> and the great number of poor he daily cheriſhed.</p>
+            <p>And how (when the King ſent for him) he refuſed (with his company) to leave the Hill of Ants to go to the King: and therefore the King went to him: which he wittily excuſed: with many other very pleaſant paſſages.</p>
+            <p>Written by <hi>W. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. F. C.</hi>
+            </p>
+            <p>Printed for <hi>W. Thackeray,</hi> at the Sign of the <hi>Angel</hi> in <hi>Duck-Lane.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184514:2"/>
+            <pb n="2" facs="tcp:184514:2"/>
+            <head>THE MOST Delightful Hiſtory OF <hi>Jack</hi> of <hi>Newberry.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Reign of King <hi>Henry</hi> the Eighth, one <hi>John Winch<g ref="char:EOLhyphen"/>comb,</hi> being an Apprentice to a rich Clothier in the town of <hi>Newberry</hi> in <hi>Barkſhire,</hi> a pretty handſome Youth, his Maſter dyed, and left his Miſtris a Widdow; who perceiving <hi>Jack</hi> to be a faithful, careful, and truſty Servant, ſhe put him in great truſt in the Houſe; who as carefully performed the truſt repoſed in him.</p>
+            <p>His Miſtris having many Suitors com<g ref="char:EOLhyphen"/>ing to her, could not fancy any: for her Man <hi>John</hi> had ſtoln away her heart. The Par<g ref="char:EOLhyphen"/>ſon of <hi>Spinhome-land</hi> woo'd her, and often ſo<g ref="char:EOLhyphen"/>licited with her to make her his Wife, but could not obtain her love, becauſe he was a Clergy-man; too much (ſhe thought) de<g ref="char:EOLhyphen"/>voted to his Study. A rich Tanner was a ſecond Wooer, but could not ſpeed; for
+<pb n="3" facs="tcp:184514:3"/> though he was rich, yet was he too Old for hee young and luſty deſires. A Taylor was a third man, who was almoſt confident of her love; but all in vain, for her man <hi>John,</hi> oh! he was the man that had ſo wounded her heart that ſhe could love no other man.</p>
+            <p>She ſeeing the backwardneſs of <hi>John,</hi> her man (after many occaſions which ſhe gave him to wooe her) came at laſt, and told him plainly that ſhe loved him, which ſecret ſhe did earneſtly deſire him not to impart to any: but he very modeſtly bluſhing with a Roſie colour in his Cheeks, not knowing low to expreſs himſelf <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he deſired, being aſtoniſhed hereat, anſwered: <hi>Sweet Miſtris</hi> (quoth he) <hi>I am but a Child to undertake ſo great a thing, it is a charge, the diſcharge whereof methinks I fear to undertake:</hi> At which anſwer, ſhe was ſomething di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>couraged in her ſute for the pre<g ref="char:EOLhyphen"/>ſent, and kiſſing of him, brake off diſcourſe for that time; and night approaching, ſhe went to Bed, but took but little reſt; but either ſlumbering (at the beſt) or Dreaming of her pretty Man <hi>John.</hi> She was ſo troubled, as if ſhe had been wounded in a Priſon, and with many Cogitations of her Beloved, fetched many deep ſighs in that doleſom and dark
+<pb n="4" facs="tcp:184514:3"/> night: thinking it long e're morning came, rejoycing to ſee the light appear; more to embrace her dear Servant, or rather her Ma<g ref="char:EOLhyphen"/>ſter, <hi>John.</hi>
+            </p>
+            <p>She going to ſee <hi>Bartholomew</hi> Fair, as Women uſe to do, to ſee and be ſeen, took her man <hi>John</hi> with her; who whilſt ſhe was talk<g ref="char:EOLhyphen"/>ing with a friend, eſpyed him ſaluting a pretty Maid, which made her own mouth water; and biting her Lips, ſhe left diſcourſing with her Neighbor to go to <hi>John,</hi> to prevent his further familiarity with the Maid.</p>
+            <p>Afterwards ſhe met with the Taylor her Sweet-heart, ſo neat as could be, in the Fair; who deſiring her to drink a Cup of Wine with him, was denied again and again, but by importunity ſhe was perſwaded; and he eſpying the Tanner, called him into t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Tavern to them, to help to bear their Charges; little imagining that he was a Sutor to the ſame Widdow; and both of them eſpying the Parſon go by, called him in, expecti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to make him their Solliciter; thus were they all meerly drawn into <hi>Cupid's</hi> Paradice: but when each had diſcovered their intents to other, they were all exceedingly perplexed, not knowing how this Diviſion might be ended: At laſt, it was deſired of the
+<pb n="5" facs="tcp:184514:4"/> Widdow which of them ſhe loved beſt: and ſhe anſwered, that ſhe loved them all; and gave them thanks for their charges; but (quoth the Parſon) can you find in your heart to Marry me? It is your Office to Marry, quoth ſhe, and not mine. Then (quoth the Tanner) will you make me your Husband? Truly Neighbour, quoth ſhe, me<g ref="char:EOLhyphen"/>thinks you might better be my Father, you are of great Years to Marry ſuch a young Widdow as I am. Then (quoth the Taylor) Widdow, i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is I that muſt enjoy you; ſhall you and I be Marryed? Yes, I hope ſo (quoth the Widdow) when we and our ſweet-hearts are agreed: So deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to take her leave of them, giving them t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anks for their coſts they ſpent on her, ſhe aroſe up to go away; but they deſiring a full anſwer from her, de<g ref="char:EOLhyphen"/>ſired her to give them better ſatisfaction to their Requeſts. If (quoth ſhe) you will come to my Hou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e on Thurſday, I will give you full ſatisfaction: at which time they all came; and ſhe told them all then plainly, that ſhe would marry none of them, for ſhe had one nearer home, whom ſhe loved ſo well, that ſhe could not marry any other man; ſo they went all away very ſad and diſcontented.</p>
+            <p>Night approaching, ſhe talked privately
+<pb n="6" facs="tcp:184514:4"/> with her Man <hi>John,</hi> wooing him to marry her; which he ſtill through baſhfulneſs re<g ref="char:EOLhyphen"/>fuſed: And when night approached, ſhe cauſed a ſpecial bed to be made for her man <hi>John</hi> to lie in; which bed was onely for ſpecial ſtrangers to lie in, or for her Husband when he was not well: and ſhe lay her ſelf in the next Chamber to him, which ſhe locked up, and kept the Key thereof her ſelf.</p>
+            <p>But when ſhe had lain in Bed an hour or two, ſhe began to think it very long to lye alone; ſo ſhe aroſe out of her bed, and went to her man <hi>John,</hi> ſhivering and ſhaking, and lifting up his bed cloaths, he ſtarted; Who is there, quoth he? It is I my ſweet <hi>John,</hi> quoth ſhe, I am your Miſtriſs; it is an ex<g ref="char:EOLhyphen"/>tream cold Night, and I, lying alone, am almoſt ſtarved in my Bed: Good <hi>John,</hi> afford me the favour of one Nights lodging by thy ſide, my <hi>John,</hi> I pray thee. Alas poor Miſtriſs, quoth he, come, come lye cloſe: Yea, yea, quoth ſhe, O ſweet and good <hi>John;</hi> but here I leave them till the next morning.</p>
+            <p>She got up very early in the morning, and calling for <hi>John</hi> her man to go abroad with her, ſhe took him to the Church of Saint <hi>Bar<g ref="char:EOLhyphen"/>tholomews;</hi>
+               <pb n="7" facs="tcp:184514:5"/> and calling for the Prſeſt of the place, ſhe, with him, perſwaded <hi>John</hi> that they might then be married together; which with ſmall intreaty he was perſwaded to, and ſo they returned home; and when they went to dinner, ſhe made him to ſit in her old husbands Chair by her ſelf at the end of the Table, at which his old fellow ſervants began to ſmile; and before Dinner was ended, ſhe took him about the neck and kiſſed him, and told her Servants that he was her Husband, and com<g ref="char:EOLhyphen"/>manded them to give him the reſpects due to a Maſter.</p>
+            <p>He alſo ſpake lovingly to them, and told them, that he would not forget that he was once their Fellow-Servant, but would deſerve their reſpects to the uttermoſt of his indeavour. Thus they ſpent the day in loving Toyings, only ſome over-ſight of the Work-men withal, and at night they went to Bed.</p>
+            <p>This new married Bride was the next morning viſited by divers Goſſips of her acqu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intance, that heard of the Wedding, who ſpent each of them their verdict, what the event of this her haſty Match would be; which Goſſips did exceedingly diſcourage her<g ref="char:punc">▪</g> Oh! but (quoth ſhe) I w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll take an Order
+<pb n="8" facs="tcp:184514:5"/> for that, for I will curb him at the firſt, that I will make ſure that he ſhall never crow over me, I warrant you.</p>
+            <p>And indeed ſhe began to grow as great a Goſſip as any was in <hi>Newberry,</hi> and would ſometimes come home very late at night; in<g ref="char:EOLhyphen"/>ſomuch, that at laſt her Husband <hi>John</hi> went to bed, and locked her out, and took the Key up into his own Chamber; and when the good wife ſaw that ſhe was ſhut out of doors, ſhe knocked very hard, till at laſt her Husband looked out at the window, and bad her to go look her lodging at night, where ſhe had been ſitting all day: <hi>Such Goſſips</hi> (quoth he) <hi>as you, the Cage is the fitteſt Lodging for, go to the Con<g ref="char:EOLhyphen"/>ſtable, and beſpeak a bed of him.</hi>
+            </p>
+            <p>
+               <hi>Oh! dear Husband,</hi> quoth ſhe, <hi>be not ſo angry, I pray you; give me leave to come into my Bed, good ſweet Husband, I pray you, and let me not ſtand thus in the cold, leſt I loſe my life thereby:</hi> After many fine words wherewith ſhe had intreated her Hus<g ref="char:EOLhyphen"/>band to come down and open the door, he came down to her, and let her in; to whom ſhe diſſemblingly pretended to have loſt her Wedding-Ring from off her hand, who lo<g ref="char:EOLhyphen"/>vingly going forth with the Candle in his hand (in his ſhirt) looked up and down upon
+<pb n="9" facs="tcp:184514:6"/> the goound for it: and ſhe the mean time ſtep<g ref="char:EOLhyphen"/>ping in, clapped to the door, and ſhut him out; whereat he was much perplexed, and knocked a long time in the cold before ſhe would anſwer, who at laſt opening the Window, bad him go look a Lodging with him Conſtables Wife; and asked him whether he thought it good to lye in the cold in the Street: Now (quoth ſhe) ſhe who was even now at your mercy, hath gotten you at hers. Oh ſweet Wife, quoth he, be not angry, but let me come in; I ſwear unto thee, that I will never ſhut thee forth of doors again, but thou ſhalt do what thou wilt and I will never meddle no make with you whatſoever you do hereafter: where<g ref="char:EOLhyphen"/>upon ſhe came down and opened the door, and let him in; and there they made great pro<g ref="char:EOLhyphen"/>teſtations each to other, never to affront or fall out one with the other after; and with a good Sack-poſſet the Covenant was agreed between them.</p>
+            <p>Shortly after the King was to raiſe an Army of Souldiers againſt the Scots, who was riſen againſt the Engliſh; and <hi>Jack</hi> of <hi>Newberry</hi> raiſed at his own charges an hun<g ref="char:EOLhyphen"/>dred and fifty men, and allowed white Coats red Caps, and yellow Feathers; and led
+<pb n="10" facs="tcp:184514:6"/> them himſelf: fifty of them were valiant Horſemen; fifty Pikes, and fifty Muſque<g ref="char:EOLhyphen"/>tiers; all brave Steeds, good Arms, and va<g ref="char:EOLhyphen"/>liant men; who marching by before the Queen, Queen <hi>Katherine,</hi> ſhe called for him, and underſtanding what he was, after ſhe had put forth her hand for him to kiſs, ſhe promi<g ref="char:EOLhyphen"/>ſed to acquaint the King's Majeſty with his free and great ſervice.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>A Song uſed by <hi>Jack</hi> of <hi>Newberry</hi> and his Souldiers:</head>
+                        <lg>
+                           <l>KIng <hi>Jamy</hi> of Scots had raiſed</l>
+                           <l>an Army againſt <hi>England;</hi>
+                           </l>
+                           <l>But let him come, we'l thunder him back,</l>
+                           <l>he cannot us withſtand.</l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>Jack</hi> of <hi>Newbery</hi> comes proud Scots take heed</l>
+                           <l>with valiant Souldiers ſtout;</l>
+                           <l>Who for brave <hi>England</hi> will fight with you,</l>
+                           <l>and never will give out.</l>
+                        </lg>
+                        <lg>
+                           <l>Our milk-white Coats, red Caps,</l>
+                           <l>and yellow Feathers declare,</l>
+                           <l>Our Reſolution's ſtout and good,</l>
+                           <l>there Scots will not ſpare.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="11" facs="tcp:184514:7"/>
+            <p>Shortly after <hi>Jack</hi> of <hi>Newberry</hi> heard that the King was to ride by <hi>Newberry,</hi> ſo he with his Servants went out into the field, and finding an Hill of Piſmires, drew his Sword and guarded it; and the King coming by, ſent for him to know the reaſon why he guarded that place with his Sword drawn, the King in perſon being to paſs by there? who returned anſwer, That he was buſie, and could not ſpeak with him; and the King is on Horſe-back, and I am on Foot, therefore (quoth he) he may the better come to me. Tell the King, that I ſtand here to guard the la<g ref="char:EOLhyphen"/>borious Ants from their Enemies: which Meſſage being brought to the King, he went to <hi>Jack</hi> of <hi>Newberry,</hi> expecting that it was done to make ſome jeſt for his pleaſure: and when the King came, <hi>Jack,</hi> with all his men, fell on their knees, and cryed, God ſave the King; your Sacred Majeſty (quoth he) hath vanquiſhed all mine Enemies. Now truſt me, quoth the King, you are ſtout Souldiers to fight againſt Butterflies, and withſtand ſuch mighty Gyants.</p>
+            <p>My dread Soveraign, quoth <hi>Jack</hi> of <hi>New<g ref="char:EOLhyphen"/>berry,</hi> not long ago, in my conceit, I ſaw the moſt provident Nation of the Ants, ſum<g ref="char:EOLhyphen"/>moned
+<pb n="12" facs="tcp:184514:7"/>
+               <!-- PDF PAGE 73--> their chief Peers to a Parliament, which was held in the famous City of <hi>Drie-duſtie,</hi> the one and thirtieth day of <hi>September;</hi> whereas by their Wiſdoms I was choſen their King; at what time alſo many Bills of complaint were brought in againſt divers ill Members in the Common-Wealth, amongſt whom the Mole was attainted of High-treaſon to their State, and therefore was baniſhed for ever from their quiet Kingdom; ſo was the Graſhopper and Catterpiller, becauſe they were not only idle, but alſo lived upon the la<g ref="char:EOLhyphen"/>bours of other Men: Amongſt the reſt, the Butterflie was very much miſliked, but few durſt ſay any thing to him, becauſe of his Gol<g ref="char:EOLhyphen"/>den Apparel: who, through ſufference, grew ſo ambitious and malapart, that the poor Ant could no ſooner get an Egg into her Neſt, but he would have it away, eſpecially againſt <hi>Eaſter</hi> which at length was miſliked.</p>
+            <p>This painted Aſs took ſnuff in the noſe, and aſſembled a great many other of his own Coat, by windy Wars to root theſe painful peo<g ref="char:EOLhyphen"/>ple out of the Land, that he himſelf might be above them. Theſe were proud But<g ref="char:EOLhyphen"/>terflies, quoth the King.</p>
+            <p>Whereupon, I, with my men, quoth <hi>Jack,</hi> prepared our ſelves to withſtand them, till ſuch
+<pb n="13" facs="tcp:184514:8"/> time as your Majeſties Royal preſence put them to flight.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>The Song which <hi>Jack</hi> Sung with his Men before the KING.</head>
+                        <lg>
+                           <l>I Have taken upon me a charge,</l>
+                           <l>to govern theſe poor Ants,</l>
+                           <l>That they may walk at large,</l>
+                           <l>to gather in their wants.</l>
+                        </lg>
+                        <lg>
+                           <l>That they may walk mo ſafe,</l>
+                           <l>to bring home their relief,</l>
+                           <l>And keep that which they have;</l>
+                           <l>from every idle Thief.</l>
+                        </lg>
+                        <lg>
+                           <l>But now my King is here,</l>
+                           <l>I bow down low my knee,</l>
+                           <l>For we that vaunted here,</l>
+                           <l>are Subjects unto thee.</l>
+                        </lg>
+                        <lg>
+                           <l>God bleſs thee Royal King,</l>
+                           <l>and ſend thee long to Reign,</l>
+                           <l>And joy in every thing,</l>
+                           <l>and freedom from all pain.</l>
+                        </lg>
+                        <lg>
+                           <l>I, and my men, and mine,</l>
+                           <l>my Ants, and all we have;</l>
+                           <pb n="14" facs="tcp:184514:8"/>
+                           <l>Command us, we are thine,</l>
+                           <l>and ſo the King God ſave,</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now to return again to <hi>Jack</hi> and his Wife, it fell out that ſhe fell ſick and dyed; and being buried, <hi>Jack</hi> fell in love with one of his Maids: and ſending for her Father, to know what he would give with his Daugh<g ref="char:EOLhyphen"/>ter: he came to <hi>Newberry,</hi> and ſeeing the wealth of his Daughters Sweet-heart, and Maſter, he was aſtoniſhed: for <hi>Jack</hi> had, <hi>viz.</hi>
+               <list>
+                  <item>In one Room two hundred Loom all going.</item>
+                  <item>Two hundred Boys making Quills.</item>
+                  <item>A hundred Women Carding.</item>
+                  <item>Two hundred Maids in another Room Spin<g ref="char:EOLhyphen"/>ning.</item>
+                  <item>An hundred and fifty Boys picking of Wool.</item>
+                  <item>Fifty Siermen.</item>
+                  <item>Eight Rowers.</item>
+                  <item>Fourty Dyers in the Dye-houſe.</item>
+                  <item>Twenty men in a Fulling-Mill.</item>
+                  <item>Ten fat Oxen he ſpent every week in his houſe, beſides Butter, Cheeſe, Fiſh, &amp;c.</item>
+                  <item>A Butcher for his own houſe.</item>
+                  <item>A Baker for his own houſe.</item>
+                  <item>A Brewer for his own houſe.</item>
+                  <pb n="15" facs="tcp:184514:9"/>
+                  <item>Five Cooks.</item>
+                  <item>Six Scullion-Boys.</item>
+                  <item>Divers Turn-ſpits, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Sir, (quoth the old man) I wis the zee you be bominable Rich, and cham content you ſhall have my Daughter, and God's Bleſſing and mine light on you both. <hi>I</hi> vaith cham but a poor man, but I thong God cham of good exclamation among my Neighbours, and they will as zoon take my vice for any thing as a richer mans: thick I will beſtow you ſhall have with a very good will, becauſe che hear very good commendation of you in every place: therefore thick give you twen<g ref="char:EOLhyphen"/>ty Nobles, and a weaning Calf, and when I dye, and my Wife; you ſhall have the Re<g ref="char:EOLhyphen"/>velation of my Goods</hi>
+            </p>
+            <p>But <hi>Jack</hi> made more reckoning of the Wo<g ref="char:EOLhyphen"/>man's modeſty, and virtues, than of his Fa<g ref="char:EOLhyphen"/>thers proffer; and he married her, and made a great Wedding; and inſtead of receiving the old mans Dowrie, he gave him twenty pounds in money; beſides other good gifts.</p>
+            <p>
+               <hi>Oh my good Zon!</hi> quoth the old man, <hi>Chriſts benizon be with thee evermore; For to tell thee true, we had zold all our
+<pb n="16" facs="tcp:184514:9"/> Kine to make money for my Daughters mar<g ref="char:EOLhyphen"/>riage, and this zeven year we ſhould not have been able to buy any more. Notwith<g ref="char:EOLhyphen"/>ſtanding we ſhould have zold all that ever we had, before my poor wench ſhould have loſt her marriage: I ſhould have zold my Coat from my back, and my Bed from under me, before my Daughter ſhould have gone with<g ref="char:EOLhyphen"/>out you. I thank you good Father and Mo<g ref="char:EOLhyphen"/>ther (quoth the Bride) and I pray God long to keeep you in health: then the Bride kneel<g ref="char:EOLhyphen"/>ing down, did her duty to her Parents; who weeping for very joy, departed.</hi>
+            </p>
+            <p>Now there was one <hi>Randal Pert,</hi> a Dra<g ref="char:EOLhyphen"/>per, dwelling in <hi>Watling-ſtreet,</hi> who owed to <hi>Jack</hi> of <hi>Newberry</hi> five hundred pounds; and it happend that <hi>Jack</hi> came up to <hi>London;</hi> and as he went to his Cuſtomers, he met in the ſtreet this <hi>Randal Pert</hi> in a Frock, carring a Porter's Basket, and an old ragged Doublet, and a torn pair of Breeches, with his Hoſe out at Heels, and a pair of old broken ſlip-ſhooes on his feet, a Rope about his middle, and a greaſie Cap on his Head, and newly come out of Priſon.</p>
+            <p>Now was his Wife, who before for dain<g ref="char:EOLhyphen"/>tineſs would not foul her fingers, nor turn her head aſide for fear of rumpling her Nem<g ref="char:EOLhyphen"/>kinger,
+<pb n="17" facs="tcp:184514:10"/> yet now glad to go about and waſh Bucks at the <hi>Thames</hi> ſide, and to be a chare-woman; her ſoft hand was now hardened with ſcouring, and inſtead of Gold Rings up<g ref="char:EOLhyphen"/>on her Lilly white fingers, her hands and fin<g ref="char:EOLhyphen"/>gers were now filled with chaps.</p>
+            <p>But when her husband eſpyed <hi>Jack</hi> of <hi>New<g ref="char:EOLhyphen"/>berry</hi> his Creditor, he ran away as faſt as he could, for fear of being arreſted: but he ſent h s man after him; who ſeeing one purſue him, he ran the faſter; and in running, here he loſt one of his ſlip-ſhooes, and there ano<g ref="char:EOLhyphen"/>ther, ever looking behind him with great fear: At laſt his Breeches being tyed but with one point, that with the haſte he made, and the oldneſs thereof, brake, and his Breeches fell about his heels, and did ſo ſhackle him, that he fell down all along in the Street which his Arſe bare, and an old ragged Shirt, he lay ſweating and blowing, being quite worn out of breath; to whom the fellow came, and brought him to his Maſter, who took him to a Scrivener, to give him Bond for the pay<g ref="char:EOLhyphen"/>ment of the money; and the time of the payment of the money was to be paid when the ſaid <hi>Pert</hi> was Sheriff of <hi>London,</hi> a thing very unlikely.</p>
+            <p>Well, the Scrivener made the Bond, to
+<pb n="18" facs="tcp:184514:10"/> be paid when <hi>Randal Pert</hi> was Sheriff of <hi>London,</hi> and thereunto ſet his hand for a Witneſs, and twenty perſons more that ſtood by.</p>
+            <p>And <hi>Jack</hi> of <hi>Newberry</hi> ſent for a new ſuit of Apparel for him out of <hi>Birchen-Lane,</hi> and a new Shirt, and Band, Hat, Hoſe, Shooes, and all things neceſſary, Merchant-like; then he took for him a Shop in <hi>Canwick-ſtreet,</hi> and furniſhed the ſame Shop with a thouſand pounds worth of Cloth, by which means, and other favours which he did for him, he grew in good credit again, and became very provident; and his Wife turned to be the beſt Houſewife in the Pariſh; and he ſoon got good cuſtom, and was very provident, and increaſed in wealth, ſo that in ſhort time became one of the beſt men for wealth in the Pariſh; and there was ſo much notice taken of him, that he was choſen Sheriff of <hi>London,</hi> and paid the five hundred pounds every penny; and kept a brave Houſe in his Shrevalty, and afterwards being an Alderman of <hi>London,</hi> dyed before he came to be Lord Mayor, and left his Wife a gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Eſtate.</p>
+            <p>
+               <hi>Jack</hi> of <hi>Newberry,</hi> otherwiſe called Maſter <hi>John Winchcomb,</hi> being grown very old, he fell ſick, and after few days he dyed; and
+<pb n="19" facs="tcp:184514:11"/> his Wife buried him in great Pomp: and he left his Wife a great Eſtate, and many Legacies to Friends, and to many poor people were left by him; and to his Burial come the greateſt part of the Country all thereabouts, to ſee the good old man laid in his Grave, where we will leave him with this Epitaph.</p>
+         </div>
+         <div type="epitaph">
+            <pb n="20" facs="tcp:184514:11"/>
+            <head>EPITAPH.</head>
+            <l>
+               <hi>OF Newberry</hi> here lies valiant <hi>Jack</hi>
+            </l>
+            <l>ſhrowded in white, come to his end</l>
+            <l>By Death that now hath broken his back,</l>
+            <l>who to his Country was a Frend;</l>
+            <l>An aid to thoſe that labour lov'd,</l>
+            <l>an help to poor, both blind and lame,</l>
+            <l>Men, Women, Children, all have prov'd</l>
+            <l>the ſuccour ſweet that from him came.</l>
+            <l>
+               <hi>Winchcomb</hi> adieu, God hath thy Soul,</l>
+            <l>thy Body lies incloſed in earth,</l>
+            <l>Thy Works brave Hiſtories do Enroul,</l>
+            <l>thy Life, thy Fame, ev'n from thy birth.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:184514:12"/>
+            <head>Theſe Books following are to be Sold by <hi>William Thackeray,</hi> at the <hi>Angel</hi> in <hi>Duck-Lane,</hi> near <hi>Weſt-Smithfield.</hi>
+            </head>
+            <list>
+               <item>THe famous Hiſtory of the <hi>Gentle Craft.</hi>
+               </item>
+               <item>The Book of Knowledge, of things un<g ref="char:EOLhyphen"/>known: the old and beſt ſort.</item>
+               <item>The Hiſtory of <hi>Thomas</hi> of <hi>Reading.</hi>
+               </item>
+               <item>The Hiſtory of the Golden Eagle.</item>
+               <item>The Hiſtory of the <hi>Jews,</hi> a ſmall one.</item>
+               <item>The Book of Merry Riddles.</item>
+               <item>Variety of Riddles and Songs.</item>
+               <item>
+                  <hi>Corydons</hi> Complements.</item>
+               <item>
+                  <hi>Robin</hi> the Cobler.</item>
+            </list>
+            <p>With all ſorts of Hiſtor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es New or Old.</p>
+            <p>There is alſo to be had theſe Books of <hi>Divinity.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>FEnner</hi>'s Sermon of Repentance.</item>
+               <item>A Sermon of <hi>Dives</hi> and <hi>Laz<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rus.</hi>
+               </item>
+               <pb facs="tcp:184514:12"/>
+               <item>A Warning-piece for the Slothful.</item>
+            </list>
+            <p>Theſe three are not above Three-pence a piece.</p>
+            <list>
+               <item>The Godly Mans Gain, and Wicked Mans Woe.</item>
+               <item>Sinners Sobs.</item>
+               <item>The Chriſtians Guide.</item>
+            </list>
+            <p>Theſe three laſt are but Two-pence a piece.</p>
+            <list>
+               <item>There is alſo two Excellent Tables: One called, <hi>Ch iſtus Natus Eſt,</hi> of the Birth Chriſt.</item>
+               <item>The other, A Watch for a Wiſe Mans Ob<g ref="char:EOLhyphen"/>ſervation: very good, pretty, and delight<g ref="char:EOLhyphen"/>ful things.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
